@@ -1,0 +1,5 @@
+location             = "westus"
+resource_group_name  = "phyo-terraform-rg"
+storage_account_name = "phyoterraformsa"
+index_document       = "index.html"
+source_content       = "<h1> Hola, This is Phyo's improved website deployed using Terraform! </h1>"
